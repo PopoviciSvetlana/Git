@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\popovici\joc\joc\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  joc.vcxproj -> D:\popovici\joc\Debug\joc.exe
+  joc.vcxproj -> D:\popovici\joc\Debug\joc.pdb (Full PDB)
